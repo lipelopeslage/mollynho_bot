@@ -1,0 +1,29 @@
+{
+  "name": "node-telegram-bot-api",
+  "version": "1.0.0",
+  "description": "Telegram Bot API",
+  "main": "./index.js",
+  "keywords": [
+    "telegram",
+    "telegram bot",
+    "telegram bot api",
+    "bot"
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Felipe Lopes Lage <felipelopeslage@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.12"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "*"
+  },
+  "devDependencies": {    
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lipelopeslage/mollynho_bot.git"
+  }
+}
