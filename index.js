@@ -17,7 +17,15 @@ const msgs = [
     "O cúmulo da depressão é ainda na barriga da mãe, tentar se enforcar com o cordão umbilical",
     "minha felicidade brigou com meu coração e abortaram a minha alma",
     "Eu sou rico. Rico de vazio",
-    "Só temos certeza de uma coisa na vida... que ela acaba!"
+    "Só temos certeza de uma coisa na vida... que ela acaba!",
+    "Ninguém se importa!",
+    "Aé.......... foda-se.",
+    "Nem sua mãe te ama", 
+    "Meninas boas vão para o céu, meninas más vão pra onde querem", 
+    "Qual o sentido da vida? Apenas um sentido... da morte certa", 
+    "Só me deixa no meu canto!", 
+    "Não ligo!",
+    "Não to te ignorando, eu só odeio todas as pessoas."
 ];
 
 const lastMsgs = new Array(msgs.length);
