@@ -16,7 +16,8 @@ const msgs = [
     "o céu a noite é preto, como a minha alma",
     "O cúmulo da depressão é ainda na barriga da mãe, tentar se enforcar com o cordão umbilical",
     "minha felicidade brigou com meu coração e abortaram a minha alma",
-    "Eu sou rico. Rico de vazio"
+    "Eu sou rico. Rico de vazio",
+    "Só temos certeza de uma coisa na vida... que ela acaba!"
 ];
 
 const lastMsgs = new Array(msgs.length);
